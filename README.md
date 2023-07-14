@@ -10,4 +10,4 @@ The attackers were able to gain access into the company's network by using targe
 
 Once the attackers gained access, they deployed their ransomware, which encrypted critical files. The company was unable to access critical patient data, causing major disruptions in their business operations. The company was forced to shut down their computer systems and contact several organizations to report the incident and receive technical assistance.
 
-[incident handler's journal](https://github.com/Daron-Martin/Documenting-incidents-with-an-incident-handler-s-journal-/blob/main/Incident%20handler's%20journal%20entry%20portfolio%201.pdf)
+[Incident handler's journal](https://github.com/Daron-Martin/Documenting-incidents-with-an-incident-handler-s-journal-/blob/main/Incident%20handler's%20journal%20entry%20portfolio%201.pdf)
